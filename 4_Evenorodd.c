@@ -1,6 +1,6 @@
-// Author: Shakir Hussain Itoo  
-// Creation Date: Mar 2021
-// Purpose: Program to check whrther the no. is even or odd. 
+// Author: Shakir Hussain Itoo
+// Creation Date:  March 2021
+// Purpose: C Program to chech whether the no. is even or odd.
 #include <stdio.h>
 int main() {
     int num;
