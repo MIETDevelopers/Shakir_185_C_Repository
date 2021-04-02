@@ -1,6 +1,6 @@
 // Author: Shakir Hussain Itoo#include<stdio.h>  
 // Creation Date: 27 Jan 2021
-// Purpose: A C Program to store information of a student using union.          © Ishav Verma 20/March/2021
+// Purpose: A C Program to store information of a student using union.  
 #include <stdio.h>
 #include <string.h>
  
