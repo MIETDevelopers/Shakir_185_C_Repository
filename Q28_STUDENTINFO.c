@@ -1,5 +1,5 @@
 // Author: Shakir Hussain Itoo
-// Creation Date: 27 Jan 2021
+// Creation Date: Mar 2021
 // Purpose: C Progarm to demonstrate student structure implementation. Student structure should contain, name, marks in different subjects, attendance percentage, Roll Number as members
 #include <stdio.h>
 struct student {
