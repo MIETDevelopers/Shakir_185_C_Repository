@@ -1,6 +1,6 @@
 // Author: Shakir Hussain Itoo
 // Creation Date:  March 2021
-// Purpose: C Program to structure as an input.
+// Purpose: C Program to represnt a function which takes structure as an input.
 #include<stdio.h>  //Pre-process directive to include standard input and output functions header file
 
 /*
